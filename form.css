@@ -1,0 +1,150 @@
+table {
+  margin: 5px;
+}
+
+h1 {
+  margin-left: 5px;
+  margin-right: 5px;
+  color: rgb(24, 104, 24);
+  background-color: #ebf1f6;
+
+}
+
+
+h4 {
+  border: 2px dotted rgb(10, 46, 31);
+  background-color: #b6d1e8;
+  margin-left: 5px;
+  margin-right: 5px;
+  padding: 2px;
+  
+  height: 25px;
+}
+
+form {
+  background-color: #ebf1f6;
+  width: 600px;
+  margin-bottom: 0 px;
+  margin-top: 5px;
+  border: #b6d1e8 solid 2px;
+
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+/* td first column */
+.y {
+  padding: 5px;
+  border-collapse: collapse;
+  border: 2px solid #ebf1f6;
+  text-align: right;
+  background-color: #b6d1e8;
+  color: black;
+  width: 200px;
+  margin-left: 50px;
+
+
+
+}
+
+/* td second column */
+
+
+table input[type="text"] {
+  width: 250px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+
+
+table input[type="email"] {
+  width: 320px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+
+table input[type="password"] {
+  width: 200px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+table input[type="number"] {
+  width: 45px;
+  margin-left: 5px;
+  margin-right: 5px;
+  
+
+  height: 12px;
+}
+
+
+.continue {
+  border-radius: 2px;
+  border: blue solid 1px;
+
+
+
+
+}
+.reset{
+  border-radius: 2px;
+  border: blue solid 1px;
+}
+
+
+
+textarea {
+  width: 270px;
+  margin-left: 5px;
+  margin-right: 5px;
+  height: 60px;
+}
+
+select {
+  width: 270px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+
+
+/*  header */
+
+nav {
+
+  background-color: #000000;
+  color: white;
+  border: 100px blue;
+  margin-bottom: 0px;
+ 
+}
+
+
+a {
+  color: white;
+  display: inline-block;
+  padding: 30px;
+  text-decoration: none;
+  margin: 0;
+
+}
+a:hover{
+  background-color: gray;
+}
+
+a:active{
+  background-color: red;
+}
+
+
+img {
+  float: right;
+  width: 140px;
+  border: 20px blue;
+  clear: both;
+  
+}

@@ -1,0 +1,75 @@
+nav {
+
+    background-color: #000000;
+    color: white;
+    border: 100px blue;
+    
+   
+}
+
+
+a {
+    color: white;
+    display: inline-block;
+    padding: 30px;
+    text-decoration: none;
+    
+
+}
+
+img {
+    float: right;
+    width: 140px;
+    border: 20px blue;
+
+}
+
+
+.img {
+
+   
+    width: 100%;
+    height: 100%; 
+}
+ 
+.link{
+    margin-top: -30px;
+    text-align: center;
+}
+
+
+
+
+/* road map */
+
+
+
+.z {
+    color: blue;
+    text-align: center;
+    position: relative;
+    top: 45px;
+}
+
+
+/* inline block */
+.a {
+    justify-content: flex-end;
+
+    position: relative;
+    left: 120px
+}
+
+
+
+.x {
+    display: flex;
+}
+
+/* footer */
+
+.top {
+    color: blue;
+    position: relative;
+    top: 40px;
+}
